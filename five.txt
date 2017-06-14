@@ -3,3 +3,4 @@ some logger.
 
 Hello guys
 
+Hi guys
